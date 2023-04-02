@@ -1,3 +1,5 @@
+package com.bubbleSort;
+
 public class BubbleSort {
     public int[] execute(int[] array) {
         int arrLength = array.length;
