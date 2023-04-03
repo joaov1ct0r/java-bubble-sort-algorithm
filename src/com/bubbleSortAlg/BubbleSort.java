@@ -1,6 +1,6 @@
 package com.bubbleSortAlg;
 
-public class BubbleSort {
+public final class BubbleSort {
     public int[] execute(int[] array) {
         int arrLength = array.length;
         int temp;
